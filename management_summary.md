@@ -38,7 +38,7 @@ The goal of this project was to analyze NYC Yellow Taxi trip data to uncover tre
 - **RMSE**: **8.09 trips/day**
 - **R² Score**: **0.77**
 
-> The model explains **77% of the variance** in daily trip demand, with **low prediction error**, making it reliable for operational use.
+ The model explains **77% of the variance** in daily trip demand, with **low prediction error**, making it reliable for operational use.
 
 ### Forecasting
 - The model was used to successfully **predict next-day trip demand** by updating lag and calendar features.
