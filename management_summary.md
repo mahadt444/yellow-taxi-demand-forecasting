@@ -17,8 +17,8 @@ The goal of this project was to analyze NYC Yellow Taxi trip data to uncover tre
 - **Longer trips** are more common during late-night and early-morning hours, often linked to **airport runs**.
 
 ###  Revenue Insights
-- **Highest average revenue per trip** occurs between **4–5 AM** (~$24), likely due to longer trips with less traffic.
-- **EWR (Newark Airport)** and **Staten Island** pickups yield the highest average fares (~$90 and $76 respectively).
+- **Highest average revenue per trip** occurs between **4–5 AM** ($24), likely due to longer trips with less traffic.
+- **EWR (Newark Airport)** and **Staten Island** pickups yield the highest average fares ($90 and $76 respectively).
 - **Top revenue-generating routes** involve trips **outside NYC** or between **boroughs and airports**, often exceeding **$200 per trip**.
 
 
