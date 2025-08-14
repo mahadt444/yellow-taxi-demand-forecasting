@@ -3,8 +3,6 @@
 ##  Objective
 The goal of this project was to analyze NYC Yellow Taxi trip data to uncover trends. For the analysis I focused on trends related to **Time**, **Distance**, and **Revenue**, and then in the second part i focused on  building a **predictive model** to forecast **daily trip demand**. The insights and forecasts aim to support taxi drivers and fleet managers in optimizing operations, maximizing earnings, and aligning supply with demand.
 
----
-
 ## Key Findings from Exploratory Data Analysis (EDA)
 
 ###  Time-Based Trends
@@ -23,7 +21,6 @@ The goal of this project was to analyze NYC Yellow Taxi trip data to uncover tre
 - **EWR (Newark Airport)** and **Staten Island** pickups yield the highest average fares (~$90 and $76 respectively).
 - **Top revenue-generating routes** involve trips **outside NYC** or between **boroughs and airports**, often exceeding **$200 per trip**.
 
----
 
 ##  Demand Forecasting with XGBoost
 
@@ -46,7 +43,6 @@ The goal of this project was to analyze NYC Yellow Taxi trip data to uncover tre
 ### Forecasting
 - The model was used to successfully **predict next-day trip demand** by updating lag and calendar features.
 
----
 
 ##  Conclusion & Recommendations
 
@@ -57,5 +53,4 @@ The goal of this project was to analyze NYC Yellow Taxi trip data to uncover tre
   - Optimize **fleet distribution**
   - Support **dynamic pricing strategies**
 
----
 
