@@ -3,4 +3,4 @@
 [Read the Management Summary](management_summary.md)
 
 
-[Python Notebooky](Python_notebook.ipynb)
+[Python Notebook](Python_notebook.ipynb)
