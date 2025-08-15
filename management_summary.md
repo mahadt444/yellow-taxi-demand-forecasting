@@ -21,7 +21,7 @@ To structure my work and make sure the insights are easy to follow and well conn
 #### ** Time Based Analysis **
 
 - **Trips per Hour of Day**:
-  - Peak hours are between **2 PM and 6 PM**, with the highest volume at **5 PM (~19,600 trips)**.
+  - Peak hours are between **2 PM and 6 PM**, with the highest volume at **5 PM (roughly 19,600 trips)**.
   - Morning demand increases from **6 AM**, peaking again between **9–11 AM**.
   - Low demand between **12 AM–5 AM**, with the lowest at **4 AM (2,000 trips)**.
 
@@ -39,7 +39,7 @@ To structure my work and make sure the insights are easy to follow and well conn
 
 - **Trip Distance Distribution**:
   - Most trips are **short**, with over **220,000 trips under 3 miles**.
-  - **Very short trips (<1 mile)** are also common (~71,000+), indicating hyper-local travel.
+  - **Very short trips (<1 mile)** are also common ( roughly 71,000+), indicating hyper-local travel.
 
 - **Top Pickup-Dropoff Pairs**:
   - High-frequency routes are concentrated in **Manhattan**, especially between adjacent zones like:
@@ -71,7 +71,7 @@ To structure my work and make sure the insights are easy to follow and well conn
   - **Manhattan (~$16)** has the lowest average fare due to short, frequent trips.
 
 - **Top High-Revenue Routes**:
-  - Routes involving **"Outside NYC"** and **airport zones** (e.g., **JFK → Arden Heights**) generate the highest average fares ($170–$240+).
+  - Routes involving **"Outside NYC"** and **airport zones** (e.g., **JFK to Arden Heights**) generate the highest average fares ($170–$240+).
   - These often represent **inter-county or airport transfers**.
 
 
