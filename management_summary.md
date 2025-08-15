@@ -125,11 +125,24 @@ The model explains **77% of the variance** in daily trip demand with low predict
 
 ##  Conclusion & Recommendations
 
-- **Short-distance, high-frequency trips** dominate NYC taxi operations, especially in **Manhattan**.
-- **Revenue potential is highest** during early mornings, late nights, and on **airport or inter-county routes**.
-- The **XGBoost model** provides:
-  - Accurate daily demand forecasts
-  - can be used for **driver shift optimization**, **fleet distribution**, and **dynamic pricing**
+Based on the insights from my analysis and the forecasting model, here are several practical recommendations to help improve taxi operations and driver efficiency:
+
+### Driver  shift Optimization
+- Encourage more drivers to be available during **early morning hours (4–6 AM)** and **late evenings**, as these time slots tend to yield higher revenue per tripoften due to airport runs or longe distance fares.
+- Ensure higher driver availability on **Fridays and Thursdays**, which consistently show the highest demand across the week.
+
+### Fleet distribution
+- Strategically position more taxis in **high-demand areas** such as the **Upper East Side**, **Midtown Manhattan**, and **airport terminals** during peak hours.
+- Use insights from trip heatmaps and hourly demand patterns to guide where and when drivers should be deployed throughout the day.
+
+### Dynamic Pricing and incentives
+- Consider offering **incentives** to drivers who take longer trips or work during periods of typically low demand (like late nights or early afternoons).
+- Use the demand forecasting model to inform **dynamic pricing strategies**, especially during holidays, major events, or periods of bad weather when demand patterns shift.
+
+###  Operational planning
+- Integrate the demand forecasting model into a **daily planning tool** to help fleet managers make informed decisions about driver scheduling and resource allocation.
+- Expand the forecasting approach to support **multi day planning** allowing better preparation for weekends, holidays, and special events.
+
 
 
 
