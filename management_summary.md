@@ -80,8 +80,8 @@ To structure my work and make sure the insights are easy to follow and well conn
 ### Why I chose XGBoost?
 XGBoost was selected for its:
 - Ability to model **non-linear relationships** and **complex feature interactions**
-- Scalability and fast training
-- Good performance with **feature-rich time series data**
+- Scalability and fast training feasible for the compute resources available with me
+- Good performance with **feature-rich time series data** which I included in my dataframe
 
 
 ###  Feature Engineering
